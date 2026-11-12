@@ -1,0 +1,29 @@
+{
+  "title": "A Macrophage Saves the Day",
+  "audience": "kids",
+  "panels": [
+    {
+      "asset_id": "macrophage",
+      "caption": "Meet the macrophage. It is a helper cell in your body.",
+      "evidence_status": "observation",
+      "references": [
+        "Macrophages are immune cells that engulf germs (Janeway et al., Immunobiology, 2001)."
+      ]
+    },
+    {
+      "asset_id": "petri-dish",
+      "caption": "Uh oh. A germ shows up where the helper cells live.",
+      "evidence_status": "creative_analogy"
+    },
+    {
+      "asset_id": "superhero",
+      "caption": "The macrophage acts like a superhero. It wraps around the germ and swallows it up.",
+      "evidence_status": "creative_analogy"
+    },
+    {
+      "asset_id": "cell-nucleus",
+      "caption": "With the germ gone, the tissue is safe again. The helper cells get back to work.",
+      "evidence_status": "creative_analogy"
+    }
+  ]
+}

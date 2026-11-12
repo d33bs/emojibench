@@ -1,0 +1,30 @@
+{
+  "id": "rxrx19a-metadata-only",
+  "name": "RxRx19a metadata-only example",
+  "category": "cells",
+  "tags": ["microscopy", "rxrx19a", "metadata-only"],
+  "image_uri": "assets/rxrx19a-metadata-only.svg",
+  "source": "RxRx19a reanalysis (WayScience)",
+  "license": "CC-BY-4.0",
+  "kind": "scientific",
+  "status": "draft",
+  "scientific_metadata": {
+    "microscopy_source": {
+      "dataset": "RxRx19a",
+      "image_uri": "images/Plate1/WellA1.tif",
+      "attribution": "Cell painting images from RxRx19a, Recursion Pharmaceuticals, CC-BY-4.0",
+      "license": "CC-BY-4.0",
+      "crop": [32, 48, 64, 64],
+      "object_id": 7,
+      "dimensions": [520, 696],
+      "measurements": {
+        "area": 412.5,
+        "eccentricity": 0.62
+      },
+      "references": [
+        "RxRx19a: an image set profiling cellular morphological responses to SARS-CoV-2 (Recursion, 2020), CC-BY-4.0."
+      ]
+    }
+  },
+  "schema_version": "1.0"
+}
