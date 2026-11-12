@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a petri dish</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#EEF9F4"/>
+  <ellipse cx="64" cy="67" rx="47" ry="34" fill="#90E0C1" stroke="#247BA0" stroke-width="6"/>
+  <ellipse cx="64" cy="59" rx="44" ry="26" fill="#C7F9E9" stroke="#247BA0" stroke-width="4"/>
+  <circle cx="45" cy="58" r="7" fill="#FF7B54"/>
+  <circle cx="75" cy="49" r="5" fill="#FF7B54"/>
+  <circle cx="84" cy="68" r="8" fill="#FFB26B"/>
+  <circle cx="57" cy="74" r="4" fill="#FF7B54"/>
+</svg>

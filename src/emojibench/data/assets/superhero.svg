@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a generic superhero</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#E7F5FF"/>
+  <path d="M43 54L16 101L53 90Z" fill="#F94144"/>
+  <circle cx="66" cy="38" r="20" fill="#F9C74F"/>
+  <path d="M47 35Q66 20 85 35V44Q66 52 47 44Z" fill="#277DA1"/>
+  <circle cx="59" cy="38" r="3" fill="#17324D"/>
+  <circle cx="73" cy="38" r="3" fill="#17324D"/>
+  <path d="M38 104Q39 59 66 57Q93 59 94 104Z" fill="#277DA1"/>
+  <path d="M66 68L72 79L85 81L76 90L78 103L66 97L54 103L56 90L47 81L60 79Z" fill="#F9C74F"/>
+</svg>

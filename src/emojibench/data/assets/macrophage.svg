@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a macrophage</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#F4E8FF"/>
+  <path d="M27 68C18 57 24 45 38 45C36 28 52 20 65 31C75 17 93 26 91 43C109 41 114 59 101 69C114 83 101 101 84 94C75 110 54 105 50 91C33 101 19 85 27 68Z" fill="#9B5DE5"/>
+  <ellipse cx="66" cy="65" rx="20" ry="17" fill="#5A189A"/>
+  <circle cx="42" cy="53" r="5" fill="#FDC500"/>
+  <circle cx="91" cy="77" r="4" fill="#FDC500"/>
+</svg>

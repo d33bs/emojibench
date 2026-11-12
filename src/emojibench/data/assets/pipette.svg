@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a pipette</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#EAF8FF"/>
+  <g transform="rotate(42 64 64)">
+    <rect x="48" y="13" width="32" height="18" rx="7" fill="#EF476F"/>
+    <rect x="53" y="27" width="22" height="53" rx="7" fill="#118AB2"/>
+    <path d="M57 75H71L67 111H61Z" fill="#073B4C"/>
+  </g>
+  <path d="M92 91C100 101 99 109 92 113C85 109 84 101 92 91Z" fill="#06D6A0"/>
+</svg>

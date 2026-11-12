@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a DNA helix</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#F4F1FF"/>
+  <path d="M39 17C91 35 91 93 39 111" fill="none" stroke="#6C5CE7" stroke-width="9" stroke-linecap="round"/>
+  <path d="M89 17C37 35 37 93 89 111" fill="none" stroke="#00B894" stroke-width="9" stroke-linecap="round"/>
+  <path d="M48 30H80M39 51H89M39 77H89M48 99H80" stroke="#FF9F1C" stroke-width="6" stroke-linecap="round"/>
+</svg>

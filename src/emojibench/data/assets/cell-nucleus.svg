@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a cell nucleus</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#FFF0F6"/>
+  <path d="M18 66C18 37 39 18 68 20C96 22 113 39 109 68C106 98 87 111 58 108C31 105 18 92 18 66Z" fill="#FF8FAB" stroke="#A4133C" stroke-width="5"/>
+  <ellipse cx="66" cy="64" rx="26" ry="29" fill="#C9184A"/>
+  <circle cx="58" cy="55" r="7" fill="#FFCCD5"/>
+  <circle cx="76" cy="75" r="5" fill="#FFCCD5"/>
+</svg>

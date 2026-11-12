@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a laboratory flask</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#FFF9E6"/>
+  <path d="M50 18H78M56 19V55L29 98Q25 108 38 108H90Q103 108 99 98L72 55V19" fill="none" stroke="#264653" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40 87H88L98 104H30Z" fill="#2EC4B6"/>
+  <circle cx="55" cy="78" r="5" fill="#FF9F1C"/>
+  <circle cx="73" cy="91" r="4" fill="#FF9F1C"/>
+</svg>

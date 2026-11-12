@@ -1,0 +1,77 @@
+---
+# used for running tests
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  pre_commit_checks:
+    permissions:
+      contents: write
+    runs-on: ubuntu-26.04
+    steps:
+      # checks out the repo
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      # run pre-commit
+      - name: Python setup
+        uses: actions/setup-python@v7.1.0
+        with:
+          python-version: "3.11"
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v10.3.3
+      # use prek for speedy precommit results
+      - uses: j178/prek-action@v3.1.0
+      # run pre-commit ci lite for automated fixes
+      - uses: pre-commit-ci/lite-action@v1.2.0
+        if: ${{ !cancelled() }}
+  run_tests:
+    needs: pre_commit_checks
+    strategy:
+      matrix:
+        python_version: ["3.11", "3.12", "3.13", "3.14"]
+        os: [ubuntu-26.04, macos-26]
+    runs-on: ${{ matrix.os }}
+    env:
+      OS: ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Python setup
+        uses: actions/setup-python@v7.1.0
+        with:
+          python-version: ${{ matrix.python_version }}
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v10.3.3
+      - name: Run pytest
+        run: uv run --frozen pytest
+  frontend_checks:
+    runs-on: ubuntu-26.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
+      - name: Node setup
+        uses: actions/setup-node@v5.0.0
+        with:
+          node-version: "22"
+      - name: Install the web packages
+        run: npm install
+        working-directory: web
+      - name: Build the web app
+        run: npm run build
+        working-directory: web
+      - name: Run the web tests
+        run: npx vitest run
+        working-directory: web

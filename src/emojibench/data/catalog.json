@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0",
+  "assets": [
+    {
+      "id": "macrophage",
+      "name": "Macrophage",
+      "category": "cells",
+      "tags": ["cell", "immune", "biology"],
+      "image_uri": "assets/macrophage.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "scientific_metadata": {
+        "content_type": "stylized illustration",
+        "evidence_status": "creative_analogy"
+      },
+      "schema_version": "1.0"
+    },
+    {
+      "id": "superhero",
+      "name": "Superhero",
+      "category": "themes",
+      "tags": ["hero", "cape", "rescue"],
+      "image_uri": "assets/superhero.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    },
+    {
+      "id": "microscope",
+      "name": "Microscope",
+      "category": "lab equipment",
+      "tags": ["lab", "imaging", "research"],
+      "image_uri": "assets/microscope.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    },
+    {
+      "id": "petri-dish",
+      "name": "Petri Dish",
+      "category": "lab equipment",
+      "tags": ["lab", "culture", "dish"],
+      "image_uri": "assets/petri-dish.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    },
+    {
+      "id": "dna-helix",
+      "name": "DNA Helix",
+      "category": "science",
+      "tags": ["dna", "genetics", "biology"],
+      "image_uri": "assets/dna-helix.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    },
+    {
+      "id": "pipette",
+      "name": "Pipette",
+      "category": "lab equipment",
+      "tags": ["lab", "liquid", "measurement"],
+      "image_uri": "assets/pipette.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    },
+    {
+      "id": "cell-nucleus",
+      "name": "Cell Nucleus",
+      "category": "cells",
+      "tags": ["cell", "nucleus", "biology"],
+      "image_uri": "assets/cell-nucleus.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "scientific_metadata": {
+        "content_type": "stylized illustration",
+        "evidence_status": "creative_analogy"
+      },
+      "schema_version": "1.0"
+    },
+    {
+      "id": "lab-flask",
+      "name": "Lab Flask",
+      "category": "lab equipment",
+      "tags": ["lab", "chemistry", "experiment"],
+      "image_uri": "assets/lab-flask.svg",
+      "source": "Original emojibench artwork by project contributors",
+      "license": "BSD-3-Clause",
+      "kind": "original",
+      "status": "approved",
+      "schema_version": "1.0"
+    }
+  ]
+}

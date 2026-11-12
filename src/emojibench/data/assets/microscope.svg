@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Original flat illustration of a microscope</title>
+  <metadata>Created for emojibench by project contributors. BSD-3-Clause license.</metadata>
+  <rect width="128" height="128" rx="24" fill="#FFF3D6"/>
+  <path d="M53 18L78 30L68 51L43 39Z" fill="#264653"/>
+  <path d="M65 46Q91 59 83 84Q78 99 58 100" fill="none" stroke="#2A9D8F" stroke-width="13" stroke-linecap="round"/>
+  <rect x="35" y="70" width="47" height="9" rx="4" fill="#E76F51"/>
+  <path d="M29 107Q37 91 57 91H87Q101 92 104 107Z" fill="#264653"/>
+  <circle cx="49" cy="57" r="8" fill="#E9C46A"/>
+</svg>
